@@ -1,65 +1,39 @@
-🥤 Bebidas (10)
+| Producto                         | Precio (S/) |
+| -------------------------------- | ----------- |
+| 1. Coca-Cola (330 ml)            | S/ 6,20     |
+| 2. Agua mineral (500 ml)         | S/ 4,10     |
+| 3. Red Bull (250 ml)             | S/ 8,20     |
+| 4. Nestea (té helado 500 ml)     | S/ 6,20     |
+| 5. Café frío en lata             | S/ 7,40     |
+| 6. Aquarius / Gatorade (500 ml)  | S/ 6,60     |
+| 7. Fanta / Sprite (330 ml)       | S/ 6,20     |
+| 8. Zumo de naranja (200 ml)      | S/ 4,90     |
+| 9. Monster Energy (500 ml)       | S/ 9,00     |
+| 10. Leche con chocolate (200 ml) | S/ 5,30     |
+| Producto                           | Precio (S/) |
+| ---------------------------------- | ----------- |
+| 1. KitKat                          | S/ 4,90     |
+| 2. M\&M’s (bolsa pequeña)          | S/ 5,30     |
+| 3. Snickers                        | S/ 4,90     |
+| 4. Galletas Oreo (mini paquete)    | S/ 4,10     |
+| 5. Kinder Bueno                    | S/ 5,30     |
+| 6. Chicles (Trident o similar)     | S/ 3,70     |
+| 7. Caramelos / Paletas             | S/ 3,30     |
+| 8. Twix                            | S/ 4,90     |
+| 9. Galletas Chips Ahoy (mini)      | S/ 4,90     |
+| 10. Barrita de granola c/chocolate | S/ 5,30     |
 
-Coca-Cola (lata o botella)
+| Producto                              | Precio (S/) |
+| ------------------------------------- | ----------- |
+| 1. Patatas fritas (bolsa pequeña)     | S/ 4,90     |
+| 2. Doritos (bolsa individual)         | S/ 5,30     |
+| 3. Galletas saladas (Ritz o similar)  | S/ 4,10     |
+| 4. Cacahuetes salados (snack)         | S/ 4,50     |
+| 5. Palomitas de maíz (bolsa pequeña)  | S/ 5,30     |
+| 6. Mix de frutos secos (25-30g)       | S/ 6,20     |
+| 7. Mini pretzels                      | S/ 4,50     |
+| 8. Nachos con salsa (pack individual) | S/ 7,40     |
+| 9. Bastoncillos de pan con queso      | S/ 4,90     |
+| 10. Chips de vegetales                | S/ 6,20     |
 
-Agua mineral
 
-Red Bull (energética)
-
-Nestea (té helado)
-
-Café frío en lata (ej. Starbucks)
-
-Aquarius / Gatorade (bebida isotónica)
-
-Fanta / Sprite
-
-Zumo de naranja en botella
-
-Monster Energy
-
-Leche con chocolate (ej. Cacaolat / Hershey’s)
-
-🍬 Dulces (10)
-
-KitKat
-
-M&M’s
-
-Snickers
-
-Galletas Oreo (paquete pequeño)
-
-Barrita Kinder Bueno
-
-Chicles (ej. Trident)
-
-Paletas o caramelos duros
-
-Twix
-
-Galletas Chips Ahoy
-
-Barritas de granola con chocolate
-
-🧂 Salados (10)
-
-Patatas fritas (ej. Lay's)
-
-Doritos (nachos)
-
-Galletas saladas (ej. Ritz)
-
-Cacahuetes salados
-
-Palomitas de maíz (bolsa)
-
-Mix de frutos secos
-
-Mini pretzels
-
-Nachos con salsa (pack individual)
-
-Bastoncillos de pan con queso (snack)
-
-Chips de vegetales (zanahoria, remolacha)
