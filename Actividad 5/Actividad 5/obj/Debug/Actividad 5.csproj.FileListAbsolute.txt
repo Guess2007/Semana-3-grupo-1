@@ -1,0 +1,2 @@
+C:\Users\ALUMNO\Desktop\grupo 1_1\Semana-3-grupo-1\Actividad 5\Actividad 5\obj\Debug\Actividad 5.csproj.AssemblyReference.cache
+C:\Users\ALUMNO\Desktop\grupo 1_1\Semana-3-grupo-1\Actividad 5\Actividad 5\obj\Debug\Actividad 5.csproj.CoreCompileInputs.cache

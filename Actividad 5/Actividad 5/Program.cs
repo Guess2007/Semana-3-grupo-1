@@ -1,7 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace Actividad_5
@@ -12,6 +14,23 @@ namespace Actividad_5
         {
             double precio1, precio2, precio3, precio4, precio5, precio6, precio7, precio8, precio9, precio10;
             int 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
         }
     }
 }
