@@ -1,2 +1,10 @@
 C:\Users\ALUMNO\Desktop\grupo 1_1\Semana-3-grupo-1\Actividad 5\Actividad 5\obj\Debug\Actividad 5.csproj.AssemblyReference.cache
 C:\Users\ALUMNO\Desktop\grupo 1_1\Semana-3-grupo-1\Actividad 5\Actividad 5\obj\Debug\Actividad 5.csproj.CoreCompileInputs.cache
+C:\Users\EnzoR\Desktop\Repositorios\Semana-3-grupo-1\Actividad 5\Actividad 5\obj\Debug\Actividad 5.csproj.AssemblyReference.cache
+C:\Users\EnzoR\Desktop\Repositorios\Semana-3-grupo-1\Actividad 5\Actividad 5\obj\Debug\Actividad 5.csproj.CoreCompileInputs.cache
+C:\Users\EnzoR\Desktop\Repositorios\Semana-3-grupo-1\Actividad 5\Actividad 5\bin\Debug\Actividad 5.exe.config
+C:\Users\EnzoR\Desktop\Repositorios\Semana-3-grupo-1\Actividad 5\Actividad 5\bin\Debug\Actividad 5.exe
+C:\Users\EnzoR\Desktop\Repositorios\Semana-3-grupo-1\Actividad 5\Actividad 5\bin\Debug\Actividad 5.pdb
+C:\Users\EnzoR\Desktop\Repositorios\Semana-3-grupo-1\Actividad 5\Actividad 5\obj\Debug\Actividad 5.exe
+C:\Users\EnzoR\Desktop\Repositorios\Semana-3-grupo-1\Actividad 5\Actividad 5\obj\Debug\Actividad 5.pdb
+C:\Users\EnzoR\Desktop\Repositorios\Semana-3-grupo-1\Actividad 5\Actividad 5\obj\Debug\Actividad 5.exe.config
